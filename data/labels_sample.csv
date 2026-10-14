@@ -1,0 +1,7 @@
+﻿filename,participant_id,session_number,activity_type,label
+P-33B7FA2A_s01_describe_picture.wav,P-33B7FA2A,1,describe_picture,non_fatigued
+P-33B7FA2A_s01_read_aloud.wav,P-33B7FA2A,1,read_aloud,non_fatigued
+P-33B7FA2A_s01_read_aloud_nonsense.wav,P-33B7FA2A,1,read_aloud_nonsense,non_fatigued
+P-33B7FA2A_s02_describe_picture.wav,P-33B7FA2A,2,describe_picture,fatigued
+P-33B7FA2A_s02_read_aloud.wav,P-33B7FA2A,2,read_aloud,fatigued
+P-33B7FA2A_s02_read_aloud_nonsense.wav,P-33B7FA2A,2,read_aloud_nonsense,fatigued
